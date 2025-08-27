@@ -9,7 +9,7 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
+- 👨‍💻 Driven by curiosity, I’m always exploring emerging technologies to refine my skills and build better digital experiences.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
@@ -35,8 +35,6 @@
   <a href="https://www.linkedin.com/in/fabricyo-silva-566687327/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  
   &nbsp;&nbsp;
   <a href="https://github.com/FabricyoSilva" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
