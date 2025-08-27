@@ -30,6 +30,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
+    <a href="mailto:fabricyosilvavs@gmail.com" target="_blank" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/FabricyoSilva" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
