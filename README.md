@@ -14,12 +14,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,js" /></td>
-      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,js,react" /></td>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" /></td>
     </tr>
     <tr>
-      <td align="center"><b>Tools</b><br><img src="https://skillicons.dev/icons?i=git,github,vscode" /></td>
-      <td align="center"><b>Aprendendo</b><br><img src="https://skillicons.dev/icons?i=react,nodejs" /></td>
+      <td align="center"><b>Databases</b><br><img src="https://skillicons.dev/icons?i=mongodb,postgresql" /></td>
+      <td align="center"><b>DevOps & Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,github,vscode" /></td>
     </tr>
   </table>
 </div>
