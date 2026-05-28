@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td align="center"><b>Databases</b><br><img src="https://skillicons.dev/icons?i=mongodb,postgresql" /></td>
-      <td align="center"><b>DevOps & Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,github,vscode" /></td>
+      <td align="center"><b>DevOps & Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,github,linux" /></td>
     </tr>
   </table>
 </div>
