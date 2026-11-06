@@ -1,37 +1,109 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Fabricyo Silva</h1>
+<h1 align="center">Hi 👋, I'm Fabricyo Silva</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=FullStack+Developer;" alt="Typing SVG" />
+  <em>Full-Stack Developer · AI Automation Enthusiast · Microservices Architecture</em>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨‍💻 Driven by curiosity, I’m always exploring emerging technologies to refine my skills and build better digital experiences.
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Language and Tools
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,js,react" /></td>
-      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Databases</b><br><img src="https://skillicons.dev/icons?i=mongodb,postgresql" /></td>
-      <td align="center"><b>DevOps & Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,github,linux" /></td>
-    </tr>
-  </table>
-</div>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabricyo-silva-566687327/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Automating+workflows+with+AI;Designing+microservices+architectures;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FabricyoSilva&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🚀 Driven by curiosity, I'm always exploring emerging technologies to refine my skills and build better digital experiences.
+- 🤖 I build **AI-powered automations** that streamline repetitive tasks and connect systems intelligently.
+- 🏗️ I design and develop **microservices architectures** focused on scalability, resilience, and clean separation of concerns.
+- 🌱 Currently deepening my knowledge in distributed systems, event-driven design, and LLM integrations.
+- 💬 Ask me about **Java, Spring Boot, Node.js, Python, and system design**.
+
+---
+
+## 🤖 AI Automation
+
+- 🔗 Integration of **LLMs (OpenAI, Claude, local models)** into real-world business workflows.
+- ⚙️ Automation pipelines using **n8n**, webhooks, and REST APIs to orchestrate tasks end-to-end.
+- 🧠 Building intelligent agents and chatbots to reduce manual work and accelerate decision-making.
+- 📊 Prompt engineering and context-aware systems for reliable, production-grade outputs.
+
+---
+
+## 🧩 Microservices
+
+- 🛠️ Service decomposition with clear bounded contexts and independent deployability.
+- 🔄 Asynchronous communication via **message brokers** (RabbitMQ / Kafka) and event-driven patterns.
+- 🚪 **API Gateway**, service discovery, and centralized configuration.
+- 🐳 Containerizationration-ready services.
+- 🛡️ Resilience patterns: circuit breakers, retries, and health checks.
+
+---
+
+## 🛠️ Languages and Tools
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python"
+/>
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://s,git,github,linux" />
+</p>
+
+### AI & Automation
+<p>
+  <img src="https://s,tensorflow,fastapi"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://i71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricyoSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab
+ricyoSilva&layout=comorder=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricyoSilva&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-th
+e-badge&logo=linkedin
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/FabricyoSilva" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <a href="https://github.com/FabricyoSilva" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<p align="center">
+  <em>⭐️ From Fabricyo Silva</em>
+</p>
